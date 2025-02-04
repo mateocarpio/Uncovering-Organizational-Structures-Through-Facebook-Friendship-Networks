@@ -13,7 +13,7 @@ This repository contains a **comprehensive analysis** of the **L2 network**, a r
 
 - 📜 README.md                 # Project documentation
 - 📁 data/                     # Dataset files
-   -- 📄 L2.csv                # Original L2 network dataset
+-- 📄 L2.csv                # Original L2 network dataset
 - 📄 Analyzer.ipynb            # Jupyter notebooks for analysis
 - 📁 figures/                  # Generated figures and visualizations
 - 📄 report.pdf                # Complete report
