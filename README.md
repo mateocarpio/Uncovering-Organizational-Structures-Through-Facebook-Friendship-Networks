@@ -10,7 +10,7 @@ This repository contains a **comprehensive analysis** of the **L2 network**, a r
 - **Network visualization** (with highlighted influential nodes and diameter)
 
 ## Repository structure
-│
+|
 ├── 📜 README.md                 # Project documentation
 │
 ├── 📁 data/                     # Dataset files
