@@ -11,13 +11,13 @@ This repository contains a **comprehensive analysis** of the **L2 network**, a r
 
 ## Repository structure
 |
-├── 📜 README.md                 # Project documentation
+├ ** 📜 README.md                 # Project documentation
 │
-├── 📁 data/                     # Dataset files
-│   └── 📄 L2.csv                # Original L2 network dataset
+├ ** 📁 data/                     # Dataset files
+│   └ ** 📄 L2.csv                # Original L2 network dataset
 │
-├── 📄 Analyzer.ipynb            # Jupyter notebooks for analysis
+├ ** 📄 Analyzer.ipynb            # Jupyter notebooks for analysis
 │
-├── 📁 figures/                  # Generated figures and visualizations
+├ ** 📁 figures/                  # Generated figures and visualizations
 │
-└── 📄 report.pdf                # Complete report
+└ ** 📄 report.pdf                # Complete report
