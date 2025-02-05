@@ -3,9 +3,9 @@ This repository contains a comprehensive analysis of the L2 network, a real-worl
 
 ## 1) Networks
 This folder contains the network data analyzed, stored in three CSV files:
- - ** edges.csv – Contains the network’s edge list.
- - ** nodes.csv – Stores node attributes.
- - ** gprops.csv – Includes general network properties.
+ - edges.csv – Contains the network’s edge list.
+ - nodes.csv – Stores node attributes.
+ - gprops.csv – Includes general network properties.
 
 ## 2) Analyzer.ipynb          
 This Jupyter notebook contains the complete analysis of the network, including all computations and visualizations.
